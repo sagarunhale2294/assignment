@@ -1,0 +1,5 @@
+{ "id": "scsmbstga", "state": "STARTED", "type": "APPLICATION_LOG", "host": "12345", "timestamp": 1491377495212}
+{ "id": "scsmbssdj", "state": "STARTED", "timestamp": 1491377495212}
+{ "id": "scsmbstga", "state": "FINISHED", "type": "APPLICATION_LOG", "host": "12345", "timestamp": 1491377495219}
+{ "id": "scsmbstgd", "state": "STARTED", "type": "APPLICATION_LOG", "host": "12345", "timestamp": 1491377495210}
+{ "id": "scsmbstgd", "state": "STARTED", "timestamp": 1491377495212}
